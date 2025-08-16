@@ -85,7 +85,11 @@ Se todas falharem, aguarde um pouco e tente novamente.
 
 ## Autores
 Giulia Meninel Mattedi
+
 Lucas Ferri dos Santos
+
 Pedro Huck Henrique
+
 Sthefany Viveiros Cordeiro
+
 Túlio Gonçalves Vieira
