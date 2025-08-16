@@ -27,7 +27,7 @@ A consequência é que a tradução depende de instâncias públicas da comunida
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python 3.12  
-- **Rastreamento Ocular:** BEam Eye Tracker SDK  
+- **Rastreamento Ocular:** Beam Eye Tracker SDK  
 - **OCR:** Tesseract OCR  
 - **Tradução:** API Pública do LibreTranslate  
 - **Bibliotecas:** Pillow, Pytesseract, Requests  
@@ -40,7 +40,7 @@ A consequência é que a tradução depende de instâncias públicas da comunida
 Baixe e instale o software no site oficial da Eyeware.
 
 ### 2. Instale o Tesseract OCR
-- Baixe o instalador para Windows: https://github.com/UB-Mannheim/tesseract/wiki(#)  
+- Baixe o instalador para Windows: https://github.com/UB-Mannheim/tesseract/wiki
 - Durante a instalação:  
   - Adicione pacotes de idiomas (ex: English e Portuguese).  
   - Certifique-se de marcar a opção para adicionar o Tesseract ao **PATH** do sistema.  
