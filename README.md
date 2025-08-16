@@ -74,6 +74,7 @@ Baixe e instale o software no site oficial da Eyeware.
 
 ### 2. Instale o Tesseract OCR
 - Baixe o instalador para Windows: https://github.com/UB-Mannheim/tesseract/wiki
+         Procure por ´tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)`.
 - Durante a instalação:  
   - Adicione pacotes de idiomas (ex: English e Portuguese).  
   - Certifique-se de marcar a opção para adicionar o Tesseract ao **PATH** do sistema.  
@@ -171,7 +172,8 @@ The consequence is that translation relies on community-maintained public instan
 Download and install the software from Eyeware’s official website.
 
 ### 2. Install Tesseract OCR
-- Download the installer for Windows: https://github.com/UB-Mannheim/tesseract/wiki  
+- Download the installer for Windows: https://github.com/UB-Mannheim/tesseract/wiki
+           Search for ´tesseract-ocr-w64-setup-5.5.0.20241111.exe (64 bit)`.  
 - During installation:  
   - Add language packages (e.g., English and Portuguese).  
   - Make sure to select the option to add Tesseract to the system **PATH**.  
