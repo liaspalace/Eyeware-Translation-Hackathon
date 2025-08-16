@@ -1,8 +1,6 @@
 # Tradutor Ocular em Tempo Real
 Traduza qualquer texto na sua tela, apenas com o olhar. Este projeto, desenvolvido para uma hackathon, transforma seu rastreador ocular em uma ferramenta de tradução instantânea, utilizando tecnologias de código aberto que respeitam sua privacidade.
 
-> **Sugestão:** Grave um GIF ou vídeo curto do seu projeto funcionando e substitua o link acima!
-
 ---
 
 ## Sobre o Projeto
