@@ -90,15 +90,11 @@ pip install -r requirements.txt
 ## Como Executar
 
 ### 1. Inicie o Eye Tracker
-Abra o aplicativo **Beam Eye Tracker** e certifique-se de que ele está rastreando seu rosto. Ative "Extensões de Jogo".
+Primeiro, certifique-se de que o software **Beam Eye Tracker** está aberto e rastreando seu rosto ativamente.
 
-### 2. Execute o Script Principal
-Abra um terminal, navegue até a pasta do script  
-`(.../python/samples/data_access_methods/)` e execute:
-
-```bash
-python bet_polling_data_access.py 
-```
+### 2. Execute o Programa
+Dê um clique duplo no arquivo **run.bat** para iniciar o projeto.  
+Um terminal será aberto automaticamente.
 
 ## Use o Aplicativo
 
@@ -191,24 +187,16 @@ pip install -r requirements.txt
 ## How to Run
 
 ### 1. Start the Eye Tracker
-Open the **Beam Eye Tracker** app and make sure it is tracking your face.  
-Enable **"Game Extensions"**.
+First, ensure the **Beam Eye Tracker** software is open and actively tracking your face.
 
-### 2. Run the Main Script
-Open a terminal, navigate to the script folder:  
-`(.../python/samples/data_access_methods/)`  
+### 2. Run the Program
+Double-click the **run.bat** file to start the project.  
+A terminal window will appear automatically.
 
-Run the command:  
-```bash
-python bet_polling_data_access.py
-```
-
-## Use the Application
+### 3. Use the Application
 - Look at any text on your screen.  
 - Fix your gaze for **1.5 seconds**.  
-- The translation will appear in the terminal running the main script.  
-
----
+- The translation will appear in the terminal window that opened.  
 
 ## Important Note on Translation
 This project uses **public and free instances** of the **LibreTranslate API**.  
