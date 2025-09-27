@@ -30,7 +30,7 @@
 
 ---
 
-**Projeto Vencedor da Hackathon**
+# Projeto Vencedor da Hackathon
 # Tradutor Ocular em Tempo Real
 Traduza qualquer texto na sua tela, apenas com o olhar. Este projeto, desenvolvido para uma hackathon, transforma seu rastreador ocular em uma ferramenta de tradução instantânea, utilizando tecnologias de código aberto que respeitam sua privacidade.
 
@@ -126,7 +126,7 @@ Sthefany Viveiros Cordeiro
 
 Túlio Gonçalves Vieira
 
-**Hackathon Winner Project**
+# Hackathon Winner Project 
 # Real-Time Eye-Tracking Translator
 Translate any text on your screen, just with your gaze.  
 This project, developed for a hackathon, turns your eye tracker into an instant translation tool, using open-source technologies that respect your privacy.
